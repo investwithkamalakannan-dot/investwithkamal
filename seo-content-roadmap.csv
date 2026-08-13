@@ -1,0 +1,434 @@
+status,category,primary_keyword,title,filename,intent
+LAUNCH,SIP,what is sip in mutual funds,What Is SIP in Mutual Funds,what-is-sip-in-mutual-funds.html,informational
+LAUNCH,SIP,how does sip work,How Does SIP Work,how-does-sip-work.html,informational
+LAUNCH,SIP,sip meaning for beginners,SIP Meaning for Beginners,sip-meaning-for-beginners.html,informational
+LAUNCH,SIP,how to start a sip,How to Start a SIP,how-to-start-a-sip.html,informational
+LAUNCH,SIP,what is a monthly sip,What Is a Monthly SIP,what-is-a-monthly-sip.html,informational
+LAUNCH,SIP,what is a weekly sip,What Is a Weekly SIP,what-is-a-weekly-sip.html,informational
+LAUNCH,SIP,what is a daily sip,What Is a Daily SIP,what-is-a-daily-sip.html,informational
+LAUNCH,SIP,what is step up sip,What Is Step Up SIP,what-is-step-up-sip.html,informational
+LAUNCH,SIP,what is top up sip,What Is Top Up SIP,what-is-top-up-sip.html,informational
+LAUNCH,SIP,what is perpetual sip,What Is Perpetual SIP,what-is-perpetual-sip.html,informational
+LAUNCH,SIP,what is sip mandate,What Is SIP Mandate,what-is-sip-mandate.html,informational
+LAUNCH,SIP,what is sip registration,What Is SIP Registration,what-is-sip-registration.html,informational
+LAUNCH,SIP,what is sip date,What Is SIP Date,what-is-sip-date.html,informational
+LAUNCH,SIP,how to choose a sip date,How to Choose a SIP Date,how-to-choose-a-sip-date.html,informational
+LAUNCH,SIP,can i change my sip date,Can I Change My SIP Date,can-i-change-my-sip-date.html,informational
+LAUNCH,SIP,can i change my sip amount,Can I Change My SIP Amount,can-i-change-my-sip-amount.html,informational
+LAUNCH,SIP,can i increase my sip amount,Can I Increase My SIP Amount,can-i-increase-my-sip-amount.html,informational
+LAUNCH,SIP,can i reduce my sip amount,Can I Reduce My SIP Amount,can-i-reduce-my-sip-amount.html,informational
+LAUNCH,SIP,can i pause a sip,Can I Pause a SIP,can-i-pause-a-sip.html,informational
+LAUNCH,SIP,can i stop sip anytime,Can I Stop SIP Anytime,can-i-stop-sip-anytime.html,informational
+LAUNCH,SIP,what happens if i miss a sip,What Happens If I Miss a SIP,what-happens-if-i-miss-a-sip.html,informational
+LAUNCH,SIP,what happens if sip payment fails,What Happens If SIP Payment Fails,what-happens-if-sip-payment-fails.html,informational
+LAUNCH,SIP,can i restart a stopped sip,Can I Restart a Stopped SIP,can-i-restart-a-stopped-sip.html,informational
+LAUNCH,SIP,can i have multiple sips,Can I Have Multiple SIPs,can-i-have-multiple-sips.html,informational
+LAUNCH,SIP,can i start sip with rs 500,Can I Start SIP With Rs 500,can-i-start-sip-with-rs-500.html,informational
+LAUNCH,SIP,can i start sip with rs 1000,Can I Start SIP With Rs 1000,can-i-start-sip-with-rs-1000.html,informational
+LAUNCH,SIP,is sip suitable for beginners,Is SIP Suitable for Beginners,is-sip-suitable-for-beginners.html,informational
+LAUNCH,SIP,does sip guarantee returns,Does SIP Guarantee Returns,does-sip-guarantee-returns.html,informational
+LAUNCH,SIP,is sip risk free,Is SIP Risk Free,is-sip-risk-free.html,informational
+LAUNCH,SIP,can sip lose money,Can SIP Lose Money,can-sip-lose-money.html,informational
+LAUNCH,SIP,how long should a sip continue,How Long Should a SIP Continue,how-long-should-a-sip-continue.html,informational
+LAUNCH,SIP,what is long term sip investing,What Is Long Term SIP Investing,what-is-long-term-sip-investing.html,informational
+LAUNCH,SIP,what is sip compounding,What Is SIP Compounding,what-is-sip-compounding.html,informational
+LAUNCH,SIP,what is rupee cost averaging in sip,What Is Rupee Cost Averaging in SIP,what-is-rupee-cost-averaging-in-sip.html,informational
+LAUNCH,SIP,how market volatility affects sip,How Market Volatility Affects SIP,how-market-volatility-affects-sip.html,informational
+LAUNCH,SIP,sip during a market fall,SIP During a Market Fall,sip-during-a-market-fall.html,informational
+LAUNCH,SIP,sip during a market rise,SIP During a Market Rise,sip-during-a-market-rise.html,informational
+LAUNCH,SIP,should i stop sip when markets fall,Should I Stop SIP When Markets Fall,should-i-stop-sip-when-markets-fall.html,informational
+LAUNCH,SIP,how to review an existing sip,How to Review an Existing SIP,how-to-review-an-existing-sip.html,informational
+LAUNCH,SIP,how often should sip be reviewed,How Often Should SIP Be Reviewed,how-often-should-sip-be-reviewed.html,informational
+LAUNCH,SIP,sip for first time investors,SIP for First Time Investors,sip-for-first-time-investors.html,informational
+LAUNCH,SIP,sip for salaried employees,SIP for Salaried Employees,sip-for-salaried-employees.html,informational
+LAUNCH,SIP,sip for self employed investors,SIP for Self Employed Investors,sip-for-self-employed-investors.html,informational
+LAUNCH,SIP,sip for young adults,SIP for Young Adults,sip-for-young-adults.html,informational
+LAUNCH,SIP,sip after retirement explained,SIP After Retirement Explained,sip-after-retirement-explained.html,informational
+LAUNCH,SIP,sip for irregular income,SIP for Irregular Income,sip-for-irregular-income.html,informational
+LAUNCH,SIP,sip for long term goals,SIP for Long Term Goals,sip-for-long-term-goals.html,informational
+LAUNCH,SIP,sip for short term goals explained,SIP for Short Term Goals Explained,sip-for-short-term-goals-explained.html,informational
+LAUNCH,SIP,how sip debit works,How SIP Debit Works,how-sip-debit-works.html,informational
+LAUNCH,SIP,sip auto debit explained,SIP Auto Debit Explained,sip-auto-debit-explained.html,informational
+LAUNCH,SIP,what is sip folio number,What Is SIP Folio Number,what-is-sip-folio-number.html,informational
+LAUNCH,SIP,can sip be transferred to another bank,Can SIP Be Transferred to Another Bank,can-sip-be-transferred-to-another-bank.html,informational
+LAUNCH,SIP,how to update bank account for sip,How to Update Bank Account for SIP,how-to-update-bank-account-for-sip.html,informational
+LAUNCH,SIP,what is sip cancellation,What Is SIP Cancellation,what-is-sip-cancellation.html,informational
+LAUNCH,SIP,sip and nominee basics,SIP and Nominee Basics,sip-and-nominee-basics.html,informational
+LAUNCH,SIP,sip and kyc requirements,SIP and KYC Requirements,sip-and-kyc-requirements.html,informational
+LAUNCH,SIP,sip without demat account,SIP Without Demat Account,sip-without-demat-account.html,informational
+LAUNCH,SIP,sip through mutual fund distributor,SIP Through Mutual Fund Distributor,sip-through-mutual-fund-distributor.html,informational
+LAUNCH,SIP,sip through an amc explained,SIP Through an AMC Explained,sip-through-an-amc-explained.html,informational
+LAUNCH,SIP,sip myths and facts,SIP Myths and Facts,sip-myths-and-facts.html,informational
+LAUNCH,SIP,common sip mistakes,Common SIP Mistakes,common-sip-mistakes.html,informational
+LAUNCH,SIP,sip checklist for beginners,SIP Checklist for Beginners,sip-checklist-for-beginners.html,informational
+LAUNCH,SIP,questions to ask before starting sip,Questions to Ask Before Starting SIP,questions-to-ask-before-starting-sip.html,informational
+LAUNCH,SIP,how to read a sip statement,How to Read a SIP Statement,how-to-read-a-sip-statement.html,informational
+LAUNCH,SIP,how to track sip transactions,How to Track SIP Transactions,how-to-track-sip-transactions.html,informational
+LAUNCH,SIP,sip goal planning basics,SIP Goal Planning Basics,sip-goal-planning-basics.html,informational
+LAUNCH,SIP,sip calculator explained,SIP Calculator Explained,sip-calculator-explained.html,informational
+LAUNCH,SIP,how sip calculator estimates work,How SIP Calculator Estimates Work,how-sip-calculator-estimates-work.html,informational
+LAUNCH,SIP,why sip returns are not fixed,Why SIP Returns Are Not Fixed,why-sip-returns-are-not-fixed.html,informational
+LAUNCH,SIP,difference between sip amount and investment value,Difference Between SIP Amount and Investment Value,difference-between-sip-amount-and-investment-value.html,informational
+LAUNCH,Mutual Fund Basics,what is a mutual fund,What Is a Mutual Fund,what-is-a-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,how mutual funds work,How Mutual Funds Work,how-mutual-funds-work.html,informational
+LAUNCH,Mutual Fund Basics,mutual fund meaning for beginners,Mutual Fund Meaning for Beginners,mutual-fund-meaning-for-beginners.html,informational
+LAUNCH,Mutual Fund Basics,who manages a mutual fund,Who Manages a Mutual Fund,who-manages-a-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is an asset management company,What Is an Asset Management Company,what-is-an-asset-management-company.html,informational
+LAUNCH,Mutual Fund Basics,what is amc in mutual funds,What Is AMC in Mutual Funds,what-is-amc-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is a mutual fund scheme,What Is a Mutual Fund Scheme,what-is-a-mutual-fund-scheme.html,informational
+LAUNCH,Mutual Fund Basics,what is a mutual fund folio,What Is a Mutual Fund Folio,what-is-a-mutual-fund-folio.html,informational
+LAUNCH,Mutual Fund Basics,what is nav in mutual funds,What Is NAV in Mutual Funds,what-is-nav-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,how nav is calculated,How NAV Is Calculated,how-nav-is-calculated.html,informational
+LAUNCH,Mutual Fund Basics,does lower nav mean a cheaper mutual fund,Does Lower NAV Mean a Cheaper Mutual Fund,does-lower-nav-mean-a-cheaper-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what are mutual fund units,What Are Mutual Fund Units,what-are-mutual-fund-units.html,informational
+LAUNCH,Mutual Fund Basics,how mutual fund units are allotted,How Mutual Fund Units Are Allotted,how-mutual-fund-units-are-allotted.html,informational
+LAUNCH,Mutual Fund Basics,what is aum in mutual funds,What Is AUM in Mutual Funds,what-is-aum-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is a benchmark in mutual funds,What Is a Benchmark in Mutual Funds,what-is-a-benchmark-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is a fund manager,What Is a Fund Manager,what-is-a-fund-manager.html,informational
+LAUNCH,Mutual Fund Basics,what is an expense ratio,What Is an Expense Ratio,what-is-an-expense-ratio.html,informational
+LAUNCH,Mutual Fund Basics,how expense ratio affects investors,How Expense Ratio Affects Investors,how-expense-ratio-affects-investors.html,informational
+LAUNCH,Mutual Fund Basics,what is exit load,What Is Exit Load,what-is-exit-load.html,informational
+LAUNCH,Mutual Fund Basics,how exit load works,How Exit Load Works,how-exit-load-works.html,informational
+LAUNCH,Mutual Fund Basics,what is entry load in mutual funds,What Is Entry Load in Mutual Funds,what-is-entry-load-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is a mutual fund portfolio,What Is a Mutual Fund Portfolio,what-is-a-mutual-fund-portfolio.html,informational
+LAUNCH,Mutual Fund Basics,what is portfolio turnover,What Is Portfolio Turnover,what-is-portfolio-turnover.html,informational
+LAUNCH,Mutual Fund Basics,what is diversification in mutual funds,What Is Diversification in Mutual Funds,what-is-diversification-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,why diversification matters,Why Diversification Matters,why-diversification-matters.html,informational
+LAUNCH,Mutual Fund Basics,what is asset allocation,What Is Asset Allocation,what-is-asset-allocation.html,informational
+LAUNCH,Mutual Fund Basics,what is rebalancing,What Is Rebalancing,what-is-rebalancing.html,informational
+LAUNCH,Mutual Fund Basics,what is riskometer in mutual funds,What Is Riskometer in Mutual Funds,what-is-riskometer-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,how to read a mutual fund riskometer,How to Read a Mutual Fund Riskometer,how-to-read-a-mutual-fund-riskometer.html,informational
+LAUNCH,Mutual Fund Basics,what is a scheme information document,What Is a Scheme Information Document,what-is-a-scheme-information-document.html,informational
+LAUNCH,Mutual Fund Basics,what is sid in mutual funds,What Is SID in Mutual Funds,what-is-sid-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is kim in mutual funds,What Is KIM in Mutual Funds,what-is-kim-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is a key information memorandum,What Is a Key Information Memorandum,what-is-a-key-information-memorandum.html,informational
+LAUNCH,Mutual Fund Basics,what is a factsheet in mutual funds,What Is a Factsheet in Mutual Funds,what-is-a-factsheet-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,how to read a mutual fund factsheet,How to Read a Mutual Fund Factsheet,how-to-read-a-mutual-fund-factsheet.html,informational
+LAUNCH,Mutual Fund Basics,what is a mutual fund statement,What Is a Mutual Fund Statement,what-is-a-mutual-fund-statement.html,informational
+LAUNCH,Mutual Fund Basics,what is cas in mutual funds,What Is CAS in Mutual Funds,what-is-cas-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is a consolidated account statement,What Is a Consolidated Account Statement,what-is-a-consolidated-account-statement.html,informational
+LAUNCH,Mutual Fund Basics,what is an isin in mutual funds,What Is an ISIN in Mutual Funds,what-is-an-isin-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is a growth option in mutual funds,What Is a Growth Option in Mutual Funds,what-is-a-growth-option-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is an idcw option in mutual funds,What Is an IDCW Option in Mutual Funds,what-is-an-idcw-option-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,growth vs idcw explained,Growth vs IDCW Explained,growth-vs-idcw-explained.html,informational
+LAUNCH,Mutual Fund Basics,what is direct plan in mutual funds,What Is Direct Plan in Mutual Funds,what-is-direct-plan-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is regular plan in mutual funds,What Is Regular Plan in Mutual Funds,what-is-regular-plan-in-mutual-funds.html,informational
+LAUNCH,Mutual Fund Basics,direct plan vs regular plan explained,Direct Plan vs Regular Plan Explained,direct-plan-vs-regular-plan-explained.html,informational
+LAUNCH,Mutual Fund Basics,what is equity mutual fund,What Is Equity Mutual Fund,what-is-equity-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is debt mutual fund,What Is Debt Mutual Fund,what-is-debt-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is hybrid mutual fund,What Is Hybrid Mutual Fund,what-is-hybrid-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is index fund,What Is Index Fund,what-is-index-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is an etf,What Is an ETF,what-is-an-etf.html,informational
+LAUNCH,Mutual Fund Basics,index fund vs etf explained,Index Fund vs ETF Explained,index-fund-vs-etf-explained.html,informational
+LAUNCH,Mutual Fund Basics,what is large cap mutual fund,What Is Large Cap Mutual Fund,what-is-large-cap-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is mid cap mutual fund,What Is Mid Cap Mutual Fund,what-is-mid-cap-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is small cap mutual fund,What Is Small Cap Mutual Fund,what-is-small-cap-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is flexi cap mutual fund,What Is Flexi Cap Mutual Fund,what-is-flexi-cap-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is multi cap mutual fund,What Is Multi Cap Mutual Fund,what-is-multi-cap-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is sectoral mutual fund,What Is Sectoral Mutual Fund,what-is-sectoral-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is thematic mutual fund,What Is Thematic Mutual Fund,what-is-thematic-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is elss mutual fund,What Is ELSS Mutual Fund,what-is-elss-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is liquid mutual fund,What Is Liquid Mutual Fund,what-is-liquid-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is overnight mutual fund,What Is Overnight Mutual Fund,what-is-overnight-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is money market mutual fund,What Is Money Market Mutual Fund,what-is-money-market-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is gilt mutual fund,What Is Gilt Mutual Fund,what-is-gilt-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is corporate bond fund,What Is Corporate Bond Fund,what-is-corporate-bond-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is dynamic bond fund,What Is Dynamic Bond Fund,what-is-dynamic-bond-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is balanced advantage fund,What Is Balanced Advantage Fund,what-is-balanced-advantage-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is arbitrage mutual fund,What Is Arbitrage Mutual Fund,what-is-arbitrage-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is fund of funds,What Is Fund of Funds,what-is-fund-of-funds.html,informational
+LAUNCH,Mutual Fund Basics,what is international mutual fund,What Is International Mutual Fund,what-is-international-mutual-fund.html,informational
+LAUNCH,Mutual Fund Basics,what is passive investing,What Is Passive Investing,what-is-passive-investing.html,informational
+LAUNCH,Mutual Fund Basics,what is active investing,What Is Active Investing,what-is-active-investing.html,informational
+LAUNCH,Mutual Fund Basics,active vs passive mutual funds,Active vs Passive Mutual Funds,active-vs-passive-mutual-funds.html,informational
+LAUNCH,Processes,how to complete mutual fund kyc,How to Complete Mutual Fund KYC,how-to-complete-mutual-fund-kyc.html,informational
+LAUNCH,Processes,what is kyc in mutual funds,What Is KYC in Mutual Funds,what-is-kyc-in-mutual-funds.html,informational
+LAUNCH,Processes,why kyc is required for mutual funds,Why KYC Is Required for Mutual Funds,why-kyc-is-required-for-mutual-funds.html,informational
+LAUNCH,Processes,what documents are used for mutual fund kyc,What Documents Are Used for Mutual Fund KYC,what-documents-are-used-for-mutual-fund-kyc.html,informational
+LAUNCH,Processes,what is ckyc,What Is CKYC,what-is-ckyc.html,informational
+LAUNCH,Processes,what is kra in mutual funds,What Is KRA in Mutual Funds,what-is-kra-in-mutual-funds.html,informational
+LAUNCH,Processes,how to check kyc status,How to Check KYC Status,how-to-check-kyc-status.html,informational
+LAUNCH,Processes,what is fatca declaration in mutual funds,What Is FATCA Declaration in Mutual Funds,what-is-fatca-declaration-in-mutual-funds.html,informational
+LAUNCH,Processes,what is nomination in mutual funds,What Is Nomination in Mutual Funds,what-is-nomination-in-mutual-funds.html,informational
+LAUNCH,Processes,why mutual fund nomination matters,Why Mutual Fund Nomination Matters,why-mutual-fund-nomination-matters.html,informational
+LAUNCH,Processes,how to add a nominee in mutual funds,How to Add a Nominee in Mutual Funds,how-to-add-a-nominee-in-mutual-funds.html,informational
+LAUNCH,Processes,how to change a nominee in mutual funds,How to Change a Nominee in Mutual Funds,how-to-change-a-nominee-in-mutual-funds.html,informational
+LAUNCH,Processes,what is transmission of mutual fund units,What Is Transmission of Mutual Fund Units,what-is-transmission-of-mutual-fund-units.html,informational
+LAUNCH,Processes,what happens to mutual funds after investor death,What Happens to Mutual Funds After Investor Death,what-happens-to-mutual-funds-after-investor-death.html,informational
+LAUNCH,Processes,how mutual fund redemption works,How Mutual Fund Redemption Works,how-mutual-fund-redemption-works.html,informational
+LAUNCH,Processes,how long does mutual fund redemption take,How Long Does Mutual Fund Redemption Take,how-long-does-mutual-fund-redemption-take.html,informational
+LAUNCH,Processes,what is partial redemption,What Is Partial Redemption,what-is-partial-redemption.html,informational
+LAUNCH,Processes,can i redeem mutual funds anytime,Can I Redeem Mutual Funds Anytime,can-i-redeem-mutual-funds-anytime.html,informational
+LAUNCH,Processes,how to update bank details in mutual funds,How to Update Bank Details in Mutual Funds,how-to-update-bank-details-in-mutual-funds.html,informational
+LAUNCH,Processes,how to update mobile number in mutual funds,How to Update Mobile Number in Mutual Funds,how-to-update-mobile-number-in-mutual-funds.html,informational
+LAUNCH,Processes,how to update email in mutual funds,How to Update Email in Mutual Funds,how-to-update-email-in-mutual-funds.html,informational
+LAUNCH,Processes,how to change address in mutual fund records,How to Change Address in Mutual Fund Records,how-to-change-address-in-mutual-fund-records.html,informational
+LAUNCH,Processes,how to correct name in mutual fund records,How to Correct Name in Mutual Fund Records,how-to-correct-name-in-mutual-fund-records.html,informational
+LAUNCH,Processes,what is one time mandate in mutual funds,What Is One Time Mandate in Mutual Funds,what-is-one-time-mandate-in-mutual-funds.html,informational
+LAUNCH,Processes,what is nach mandate for sip,What Is NACH Mandate for SIP,what-is-nach-mandate-for-sip.html,informational
+LAUNCH,Processes,what is upi autopay for sip,What Is UPI Autopay for SIP,what-is-upi-autopay-for-sip.html,informational
+LAUNCH,Processes,how mutual fund purchase transactions work,How Mutual Fund Purchase Transactions Work,how-mutual-fund-purchase-transactions-work.html,informational
+LAUNCH,Processes,what is additional purchase in mutual funds,What Is Additional Purchase in Mutual Funds,what-is-additional-purchase-in-mutual-funds.html,informational
+LAUNCH,Processes,how switch transaction works in mutual funds,How Switch Transaction Works in Mutual Funds,how-switch-transaction-works-in-mutual-funds.html,informational
+LAUNCH,Processes,what is stp in mutual funds,What Is STP in Mutual Funds,what-is-stp-in-mutual-funds.html,informational
+LAUNCH,Processes,how stp works,How STP Works,how-stp-works.html,informational
+LAUNCH,Processes,what is swp in mutual funds,What Is SWP in Mutual Funds,what-is-swp-in-mutual-funds.html,informational
+LAUNCH,Processes,how swp works,How SWP Works,how-swp-works.html,informational
+LAUNCH,Processes,what is mutual fund lien,What Is Mutual Fund Lien,what-is-mutual-fund-lien.html,informational
+LAUNCH,Processes,what is pledge of mutual fund units,What Is Pledge of Mutual Fund Units,what-is-pledge-of-mutual-fund-units.html,informational
+LAUNCH,Processes,what is demat mode for mutual funds,What Is Demat Mode for Mutual Funds,what-is-demat-mode-for-mutual-funds.html,informational
+LAUNCH,Processes,statement mode vs demat mode for mutual funds,Statement Mode vs Demat Mode for Mutual Funds,statement-mode-vs-demat-mode-for-mutual-funds.html,informational
+LAUNCH,Processes,how to consolidate mutual fund folios,How to Consolidate Mutual Fund Folios,how-to-consolidate-mutual-fund-folios.html,informational
+LAUNCH,Processes,how to find mutual fund folio number,How to Find Mutual Fund Folio Number,how-to-find-mutual-fund-folio-number.html,informational
+LAUNCH,Processes,how to download mutual fund statement,How to Download Mutual Fund Statement,how-to-download-mutual-fund-statement.html,informational
+LAUNCH,Processes,how to verify a mutual fund transaction,How to Verify a Mutual Fund Transaction,how-to-verify-a-mutual-fund-transaction.html,informational
+LAUNCH,Processes,what is transaction cut off time in mutual funds,What Is Transaction Cut Off Time in Mutual Funds,what-is-transaction-cut-off-time-in-mutual-funds.html,informational
+LAUNCH,Processes,why cut off time matters in mutual funds,Why Cut Off Time Matters in Mutual Funds,why-cut-off-time-matters-in-mutual-funds.html,informational
+LAUNCH,Processes,what is applicable nav,What Is Applicable NAV,what-is-applicable-nav.html,informational
+LAUNCH,Processes,how applicable nav works,How Applicable NAV Works,how-applicable-nav-works.html,informational
+LAUNCH,Processes,what is mutual fund account number,What Is Mutual Fund Account Number,what-is-mutual-fund-account-number.html,informational
+LAUNCH,Processes,how to keep mutual fund records organized,How to Keep Mutual Fund Records Organized,how-to-keep-mutual-fund-records-organized.html,informational
+LAUNCH,Processes,mutual fund nominee checklist,Mutual Fund Nominee Checklist,mutual-fund-nominee-checklist.html,informational
+LAUNCH,Processes,mutual fund redemption checklist,Mutual Fund Redemption Checklist,mutual-fund-redemption-checklist.html,informational
+LAUNCH,Processes,mutual fund kyc checklist,Mutual Fund KYC Checklist,mutual-fund-kyc-checklist.html,informational
+LAUNCH,Risk & Behaviour,are mutual funds safe,Are Mutual Funds Safe,are-mutual-funds-safe.html,informational
+LAUNCH,Risk & Behaviour,can mutual funds lose money,Can Mutual Funds Lose Money,can-mutual-funds-lose-money.html,informational
+LAUNCH,Risk & Behaviour,what are the risks in mutual funds,What Are the Risks in Mutual Funds,what-are-the-risks-in-mutual-funds.html,informational
+LAUNCH,Risk & Behaviour,market risk in mutual funds explained,Market Risk in Mutual Funds Explained,market-risk-in-mutual-funds-explained.html,informational
+LAUNCH,Risk & Behaviour,credit risk in mutual funds explained,Credit Risk in Mutual Funds Explained,credit-risk-in-mutual-funds-explained.html,informational
+LAUNCH,Risk & Behaviour,interest rate risk in mutual funds explained,Interest Rate Risk in Mutual Funds Explained,interest-rate-risk-in-mutual-funds-explained.html,informational
+LAUNCH,Risk & Behaviour,liquidity risk in mutual funds explained,Liquidity Risk in Mutual Funds Explained,liquidity-risk-in-mutual-funds-explained.html,informational
+LAUNCH,Risk & Behaviour,concentration risk in mutual funds explained,Concentration Risk in Mutual Funds Explained,concentration-risk-in-mutual-funds-explained.html,informational
+LAUNCH,Risk & Behaviour,inflation risk and investing,Inflation Risk and Investing,inflation-risk-and-investing.html,informational
+LAUNCH,Risk & Behaviour,sequence of returns risk explained,Sequence of Returns Risk Explained,sequence-of-returns-risk-explained.html,informational
+LAUNCH,Risk & Behaviour,what is volatility in mutual funds,What Is Volatility in Mutual Funds,what-is-volatility-in-mutual-funds.html,informational
+LAUNCH,Risk & Behaviour,volatility vs risk explained,Volatility vs Risk Explained,volatility-vs-risk-explained.html,informational
+LAUNCH,Risk & Behaviour,what is standard deviation in mutual funds,What Is Standard Deviation in Mutual Funds,what-is-standard-deviation-in-mutual-funds.html,informational
+LAUNCH,Risk & Behaviour,what is beta in mutual funds,What Is Beta in Mutual Funds,what-is-beta-in-mutual-funds.html,informational
+LAUNCH,Risk & Behaviour,what is sharpe ratio in mutual funds,What Is Sharpe Ratio in Mutual Funds,what-is-sharpe-ratio-in-mutual-funds.html,informational
+LAUNCH,Risk & Behaviour,what is alpha in mutual funds,What Is Alpha in Mutual Funds,what-is-alpha-in-mutual-funds.html,informational
+LAUNCH,Risk & Behaviour,what is tracking error,What Is Tracking Error,what-is-tracking-error.html,informational
+LAUNCH,Risk & Behaviour,what is tracking difference,What Is Tracking Difference,what-is-tracking-difference.html,informational
+LAUNCH,Risk & Behaviour,how market corrections affect mutual funds,How Market Corrections Affect Mutual Funds,how-market-corrections-affect-mutual-funds.html,informational
+LAUNCH,Risk & Behaviour,how market crashes affect mutual funds,How Market Crashes Affect Mutual Funds,how-market-crashes-affect-mutual-funds.html,informational
+LAUNCH,Risk & Behaviour,should you panic during market falls,Should You Panic During Market Falls,should-you-panic-during-market-falls.html,informational
+LAUNCH,Risk & Behaviour,why investor behaviour matters,Why Investor Behaviour Matters,why-investor-behaviour-matters.html,informational
+LAUNCH,Risk & Behaviour,common mutual fund investor mistakes,Common Mutual Fund Investor Mistakes,common-mutual-fund-investor-mistakes.html,informational
+LAUNCH,Risk & Behaviour,chasing past returns in mutual funds,Chasing Past Returns in Mutual Funds,chasing-past-returns-in-mutual-funds.html,informational
+LAUNCH,Risk & Behaviour,why past performance is not a guarantee,Why Past Performance Is Not a Guarantee,why-past-performance-is-not-a-guarantee.html,informational
+LAUNCH,Risk & Behaviour,why highest return is not always best,Why Highest Return Is Not Always Best,why-highest-return-is-not-always-best.html,informational
+LAUNCH,Risk & Behaviour,why time horizon matters in investing,Why Time Horizon Matters in Investing,why-time-horizon-matters-in-investing.html,informational
+LAUNCH,Risk & Behaviour,why risk capacity matters,Why Risk Capacity Matters,why-risk-capacity-matters.html,informational
+LAUNCH,Risk & Behaviour,risk tolerance vs risk capacity,Risk Tolerance vs Risk Capacity,risk-tolerance-vs-risk-capacity.html,informational
+LAUNCH,Risk & Behaviour,how to think about investment risk,How to Think About Investment Risk,how-to-think-about-investment-risk.html,informational
+LAUNCH,Risk & Behaviour,what is diversification risk,What Is Diversification Risk,what-is-diversification-risk.html,informational
+LAUNCH,Risk & Behaviour,what is home bias in investing,What Is Home Bias in Investing,what-is-home-bias-in-investing.html,informational
+LAUNCH,Risk & Behaviour,what is recency bias in investing,What Is Recency Bias in Investing,what-is-recency-bias-in-investing.html,informational
+LAUNCH,Risk & Behaviour,what is loss aversion in investing,What Is Loss Aversion in Investing,what-is-loss-aversion-in-investing.html,informational
+LAUNCH,Risk & Behaviour,what is herd behaviour in investing,What Is Herd Behaviour in Investing,what-is-herd-behaviour-in-investing.html,informational
+LAUNCH,Risk & Behaviour,why frequent portfolio changes can hurt,Why Frequent Portfolio Changes Can Hurt,why-frequent-portfolio-changes-can-hurt.html,informational
+LAUNCH,Risk & Behaviour,why comparing daily nav can mislead beginners,Why Comparing Daily NAV Can Mislead Beginners,why-comparing-daily-nav-can-mislead-beginners.html,informational
+LAUNCH,Risk & Behaviour,how to read risk disclosures,How to Read Risk Disclosures,how-to-read-risk-disclosures.html,informational
+LAUNCH,Risk & Behaviour,how to build an emergency buffer before investing,How to Build an Emergency Buffer Before Investing,how-to-build-an-emergency-buffer-before-investing.html,informational
+LAUNCH,Risk & Behaviour,why borrowing to invest can be risky,Why Borrowing to Invest Can Be Risky,why-borrowing-to-invest-can-be-risky.html,informational
+LAUNCH,Risk & Behaviour,why guaranteed return claims need caution,Why Guaranteed Return Claims Need Caution,why-guaranteed-return-claims-need-caution.html,informational
+LAUNCH,Risk & Behaviour,how to spot misleading investment claims,How to Spot Misleading Investment Claims,how-to-spot-misleading-investment-claims.html,informational
+LAUNCH,Risk & Behaviour,mutual fund fraud warning signs,Mutual Fund Fraud Warning Signs,mutual-fund-fraud-warning-signs.html,informational
+LAUNCH,Risk & Behaviour,how to verify an amfi registered distributor,How to Verify an AMFI Registered Distributor,how-to-verify-an-amfi-registered-distributor.html,informational
+LAUNCH,Risk & Behaviour,how to verify an arn number,How to Verify an ARN Number,how-to-verify-an-arn-number.html,informational
+LAUNCH,Risk & Behaviour,investor checklist before signing any form,Investor Checklist Before Signing Any Form,investor-checklist-before-signing-any-form.html,informational
+LAUNCH,Risk & Behaviour,questions to ask a mutual fund distributor,Questions to Ask a Mutual Fund Distributor,questions-to-ask-a-mutual-fund-distributor.html,informational
+LAUNCH,Risk & Behaviour,how to review risk before investing,How to Review Risk Before Investing,how-to-review-risk-before-investing.html,informational
+LAUNCH,Risk & Behaviour,understanding market linked returns,Understanding Market Linked Returns,understanding-market-linked-returns.html,informational
+LAUNCH,Risk & Behaviour,why mutual fund returns change,Why Mutual Fund Returns Change,why-mutual-fund-returns-change.html,informational
+LAUNCH,Goal Planning,what is goal based investing,What Is Goal Based Investing,what-is-goal-based-investing.html,informational
+LAUNCH,Goal Planning,how to define a financial goal,How to Define a Financial Goal,how-to-define-a-financial-goal.html,informational
+LAUNCH,Goal Planning,how to set a time horizon for a goal,How to Set a Time Horizon for a Goal,how-to-set-a-time-horizon-for-a-goal.html,informational
+LAUNCH,Goal Planning,how inflation affects financial goals,How Inflation Affects Financial Goals,how-inflation-affects-financial-goals.html,informational
+LAUNCH,Goal Planning,how to estimate future goal cost,How to Estimate Future Goal Cost,how-to-estimate-future-goal-cost.html,informational
+LAUNCH,Goal Planning,how to prioritize multiple financial goals,How to Prioritize Multiple Financial Goals,how-to-prioritize-multiple-financial-goals.html,informational
+LAUNCH,Goal Planning,short term vs long term financial goals,Short Term vs Long Term Financial Goals,short-term-vs-long-term-financial-goals.html,informational
+LAUNCH,Goal Planning,how to plan for child education goal,How to Plan for Child Education Goal,how-to-plan-for-child-education-goal.html,informational
+LAUNCH,Goal Planning,how to plan for a home purchase goal,How to Plan for a Home Purchase Goal,how-to-plan-for-a-home-purchase-goal.html,informational
+LAUNCH,Goal Planning,how to plan for retirement goal,How to Plan for Retirement Goal,how-to-plan-for-retirement-goal.html,informational
+LAUNCH,Goal Planning,how to plan for a wedding goal,How to Plan for a Wedding Goal,how-to-plan-for-a-wedding-goal.html,informational
+LAUNCH,Goal Planning,how to plan for a travel goal,How to Plan for a Travel Goal,how-to-plan-for-a-travel-goal.html,informational
+LAUNCH,Goal Planning,how to plan for a vehicle purchase goal,How to Plan for a Vehicle Purchase Goal,how-to-plan-for-a-vehicle-purchase-goal.html,informational
+LAUNCH,Goal Planning,how to plan for a business goal,How to Plan for a Business Goal,how-to-plan-for-a-business-goal.html,informational
+LAUNCH,Goal Planning,how to build an emergency fund,How to Build an Emergency Fund,how-to-build-an-emergency-fund.html,informational
+LAUNCH,Goal Planning,emergency fund before mutual funds,Emergency Fund Before Mutual Funds,emergency-fund-before-mutual-funds.html,informational
+LAUNCH,Goal Planning,how much emergency fund is enough,How Much Emergency Fund Is Enough,how-much-emergency-fund-is-enough.html,informational
+LAUNCH,Goal Planning,why insurance and investment are different,Why Insurance and Investment Are Different,why-insurance-and-investment-are-different.html,informational
+LAUNCH,Goal Planning,why goal amount matters more than product names,Why Goal Amount Matters More Than Product Names,why-goal-amount-matters-more-than-product-names.html,informational
+LAUNCH,Goal Planning,how to review progress toward a goal,How to Review Progress Toward a Goal,how-to-review-progress-toward-a-goal.html,informational
+LAUNCH,Goal Planning,how often should financial goals be reviewed,How Often Should Financial Goals Be Reviewed,how-often-should-financial-goals-be-reviewed.html,informational
+LAUNCH,Goal Planning,what to do when a goal date changes,What to Do When a Goal Date Changes,what-to-do-when-a-goal-date-changes.html,informational
+LAUNCH,Goal Planning,what to do when income increases,What to Do When Income Increases,what-to-do-when-income-increases.html,informational
+LAUNCH,Goal Planning,what to do when income falls,What to Do When Income Falls,what-to-do-when-income-falls.html,informational
+LAUNCH,Goal Planning,how to increase savings gradually,How to Increase Savings Gradually,how-to-increase-savings-gradually.html,informational
+LAUNCH,Goal Planning,what is a savings rate,What Is a Savings Rate,what-is-a-savings-rate.html,informational
+LAUNCH,Goal Planning,how to create an investing habit,How to Create an Investing Habit,how-to-create-an-investing-habit.html,informational
+LAUNCH,Goal Planning,how to start investing with a small amount,How to Start Investing With a Small Amount,how-to-start-investing-with-a-small-amount.html,informational
+LAUNCH,Goal Planning,how to invest with irregular income,How to Invest With Irregular Income,how-to-invest-with-irregular-income.html,informational
+LAUNCH,Goal Planning,how to organize monthly savings,How to Organize Monthly Savings,how-to-organize-monthly-savings.html,informational
+LAUNCH,Goal Planning,how to separate emergency and long term money,How to Separate Emergency and Long Term Money,how-to-separate-emergency-and-long-term-money.html,informational
+LAUNCH,Goal Planning,why time horizon changes investment choices,Why Time Horizon Changes Investment Choices,why-time-horizon-changes-investment-choices.html,informational
+LAUNCH,Goal Planning,how to think about liquidity needs,How to Think About Liquidity Needs,how-to-think-about-liquidity-needs.html,informational
+LAUNCH,Goal Planning,how to plan investments for multiple goals,How to Plan Investments for Multiple Goals,how-to-plan-investments-for-multiple-goals.html,informational
+LAUNCH,Goal Planning,what is a goal corpus,What Is a Goal Corpus,what-is-a-goal-corpus.html,informational
+LAUNCH,Goal Planning,how goal corpus is estimated,How Goal Corpus Is Estimated,how-goal-corpus-is-estimated.html,informational
+LAUNCH,Goal Planning,what is present value and future value,What Is Present Value and Future Value,what-is-present-value-and-future-value.html,informational
+LAUNCH,Goal Planning,how compounding works in investing,How Compounding Works in Investing,how-compounding-works-in-investing.html,informational
+LAUNCH,Goal Planning,power of starting early in investing,Power of Starting Early in Investing,power-of-starting-early-in-investing.html,informational
+LAUNCH,Goal Planning,cost of delaying a financial goal,Cost of Delaying a Financial Goal,cost-of-delaying-a-financial-goal.html,informational
+LAUNCH,Goal Planning,how to review a goal based portfolio,How to Review a Goal Based Portfolio,how-to-review-a-goal-based-portfolio.html,informational
+LAUNCH,Goal Planning,goal planning checklist for beginners,Goal Planning Checklist for Beginners,goal-planning-checklist-for-beginners.html,informational
+LAUNCH,Goal Planning,questions to ask before choosing an investment,Questions to Ask Before Choosing an Investment,questions-to-ask-before-choosing-an-investment.html,informational
+LAUNCH,Goal Planning,how to match investment horizon with goals,How to Match Investment Horizon With Goals,how-to-match-investment-horizon-with-goals.html,informational
+LAUNCH,Goal Planning,what is financial discipline,What Is Financial Discipline,what-is-financial-discipline.html,informational
+LAUNCH,Goal Planning,how to avoid lifestyle inflation,How to Avoid Lifestyle Inflation,how-to-avoid-lifestyle-inflation.html,informational
+LAUNCH,Goal Planning,how to build a long term investing routine,How to Build a Long Term Investing Routine,how-to-build-a-long-term-investing-routine.html,informational
+LAUNCH,Goal Planning,why consistency matters in investing,Why Consistency Matters in Investing,why-consistency-matters-in-investing.html,informational
+LAUNCH,Goal Planning,how to track financial goals,How to Track Financial Goals,how-to-track-financial-goals.html,informational
+LAUNCH,Goal Planning,simple financial goal worksheet explained,Simple Financial Goal Worksheet Explained,simple-financial-goal-worksheet-explained.html,informational
+LAUNCH,Comparisons,sip vs lump sum,SIP vs Lump Sum,sip-vs-lump-sum.html,informational
+LAUNCH,Comparisons,sip vs recurring deposit,SIP vs Recurring Deposit,sip-vs-recurring-deposit.html,informational
+LAUNCH,Comparisons,mutual fund vs fixed deposit,Mutual Fund vs Fixed Deposit,mutual-fund-vs-fixed-deposit.html,informational
+LAUNCH,Comparisons,mutual fund vs recurring deposit,Mutual Fund vs Recurring Deposit,mutual-fund-vs-recurring-deposit.html,informational
+LAUNCH,Comparisons,mutual fund vs stocks,Mutual Fund vs Stocks,mutual-fund-vs-stocks.html,informational
+LAUNCH,Comparisons,mutual fund vs etf,Mutual Fund vs ETF,mutual-fund-vs-etf.html,informational
+LAUNCH,Comparisons,index fund vs active fund,Index Fund vs Active Fund,index-fund-vs-active-fund.html,informational
+LAUNCH,Comparisons,growth vs idcw in mutual funds,Growth vs IDCW in Mutual Funds,growth-vs-idcw-in-mutual-funds.html,informational
+LAUNCH,Comparisons,direct vs regular mutual fund plan,Direct vs Regular Mutual Fund Plan,direct-vs-regular-mutual-fund-plan.html,informational
+LAUNCH,Comparisons,equity fund vs debt fund,Equity Fund vs Debt Fund,equity-fund-vs-debt-fund.html,informational
+LAUNCH,Comparisons,equity fund vs hybrid fund,Equity Fund vs Hybrid Fund,equity-fund-vs-hybrid-fund.html,informational
+LAUNCH,Comparisons,large cap vs mid cap mutual fund,Large Cap vs Mid Cap Mutual Fund,large-cap-vs-mid-cap-mutual-fund.html,informational
+LAUNCH,Comparisons,mid cap vs small cap mutual fund,Mid Cap vs Small Cap Mutual Fund,mid-cap-vs-small-cap-mutual-fund.html,informational
+LAUNCH,Comparisons,flexi cap vs multi cap mutual fund,Flexi Cap vs Multi Cap Mutual Fund,flexi-cap-vs-multi-cap-mutual-fund.html,informational
+LAUNCH,Comparisons,index fund vs large cap fund,Index Fund vs Large Cap Fund,index-fund-vs-large-cap-fund.html,informational
+LAUNCH,Comparisons,etf vs index fund,ETF vs Index Fund,etf-vs-index-fund.html,informational
+LAUNCH,Comparisons,stp vs sip,STP vs SIP,stp-vs-sip.html,informational
+LAUNCH,Comparisons,swp vs sip,SWP vs SIP,swp-vs-sip.html,informational
+LAUNCH,Comparisons,stp vs swp,STP vs SWP,stp-vs-swp.html,informational
+LAUNCH,Comparisons,sip vs step up sip,SIP vs Step Up SIP,sip-vs-step-up-sip.html,informational
+LAUNCH,Comparisons,monthly sip vs weekly sip,Monthly SIP vs Weekly SIP,monthly-sip-vs-weekly-sip.html,informational
+LAUNCH,Comparisons,monthly sip vs daily sip,Monthly SIP vs Daily SIP,monthly-sip-vs-daily-sip.html,informational
+LAUNCH,Comparisons,sip vs top up sip,SIP vs Top Up SIP,sip-vs-top-up-sip.html,informational
+LAUNCH,Comparisons,sip vs one time investment,SIP vs One Time Investment,sip-vs-one-time-investment.html,informational
+LAUNCH,Comparisons,nav vs market price,NAV vs Market Price,nav-vs-market-price.html,informational
+LAUNCH,Comparisons,cagr vs absolute return,CAGR vs Absolute Return,cagr-vs-absolute-return.html,informational
+LAUNCH,Comparisons,cagr vs xirr,CAGR vs XIRR,cagr-vs-xirr.html,informational
+LAUNCH,Comparisons,xirr vs absolute return,XIRR vs Absolute Return,xirr-vs-absolute-return.html,informational
+LAUNCH,Comparisons,return vs risk in mutual funds,Return vs Risk in Mutual Funds,return-vs-risk-in-mutual-funds.html,informational
+LAUNCH,Comparisons,expense ratio vs exit load,Expense Ratio vs Exit Load,expense-ratio-vs-exit-load.html,informational
+LAUNCH,Comparisons,aum vs nav,AUM vs NAV,aum-vs-nav.html,informational
+LAUNCH,Comparisons,fund manager vs amc,Fund Manager vs AMC,fund-manager-vs-amc.html,informational
+FUTURE,Comparisons,benchmark vs category average,Benchmark vs Category Average,benchmark-vs-category-average.html,informational
+FUTURE,Comparisons,active investing vs passive investing,Active Investing vs Passive Investing,active-investing-vs-passive-investing.html,informational
+FUTURE,Comparisons,diversification vs asset allocation,Diversification vs Asset Allocation,diversification-vs-asset-allocation.html,informational
+FUTURE,Comparisons,risk tolerance vs time horizon,Risk Tolerance vs Time Horizon,risk-tolerance-vs-time-horizon.html,informational
+FUTURE,Comparisons,savings vs investing,Savings vs Investing,savings-vs-investing.html,informational
+FUTURE,Comparisons,investing vs trading,Investing vs Trading,investing-vs-trading.html,informational
+FUTURE,Comparisons,emergency fund vs investment fund,Emergency Fund vs Investment Fund,emergency-fund-vs-investment-fund.html,informational
+FUTURE,Comparisons,goal based investing vs random investing,Goal Based Investing vs Random Investing,goal-based-investing-vs-random-investing.html,informational
+FUTURE,Comparisons,regular plan vs direct plan for beginners,Regular Plan vs Direct Plan for Beginners,regular-plan-vs-direct-plan-for-beginners.html,informational
+FUTURE,Comparisons,growth option vs income withdrawal expectations,Growth Option vs Income Withdrawal Expectations,growth-option-vs-income-withdrawal-expectations.html,informational
+FUTURE,Comparisons,index fund vs etf for beginners,Index Fund vs ETF for Beginners,index-fund-vs-etf-for-beginners.html,informational
+FUTURE,Comparisons,large cap vs flexi cap explained,Large Cap vs Flexi Cap Explained,large-cap-vs-flexi-cap-explained.html,informational
+FUTURE,Comparisons,hybrid fund vs balanced advantage fund,Hybrid Fund vs Balanced Advantage Fund,hybrid-fund-vs-balanced-advantage-fund.html,informational
+FUTURE,Comparisons,liquid fund vs overnight fund,Liquid Fund vs Overnight Fund,liquid-fund-vs-overnight-fund.html,informational
+FUTURE,Comparisons,debt fund vs fixed deposit concepts,Debt Fund vs Fixed Deposit Concepts,debt-fund-vs-fixed-deposit-concepts.html,informational
+FUTURE,Comparisons,mutual fund folio vs demat account,Mutual Fund Folio vs Demat Account,mutual-fund-folio-vs-demat-account.html,informational
+FUTURE,Comparisons,sip amount vs sip value,SIP Amount vs SIP Value,sip-amount-vs-sip-value.html,informational
+FUTURE,Comparisons,past returns vs future expectations,Past Returns vs Future Expectations,past-returns-vs-future-expectations.html,informational
+FUTURE,Local & India,mutual fund distributor in coimbatore,Mutual Fund Distributor in Coimbatore,mutual-fund-distributor-in-coimbatore.html,local
+FUTURE,Local & India,amfi registered mutual fund distributor in coimbatore,AMFI Registered Mutual Fund Distributor in Coimbatore,amfi-registered-mutual-fund-distributor-in-coimbatore.html,local
+FUTURE,Local & India,sip guidance in coimbatore,SIP Guidance in Coimbatore,sip-guidance-in-coimbatore.html,local
+FUTURE,Local & India,how to start sip in coimbatore,How to Start SIP in Coimbatore,how-to-start-sip-in-coimbatore.html,local
+FUTURE,Local & India,mutual fund education in coimbatore,Mutual Fund Education in Coimbatore,mutual-fund-education-in-coimbatore.html,local
+FUTURE,Local & India,mutual fund basics for coimbatore investors,Mutual Fund Basics for Coimbatore Investors,mutual-fund-basics-for-coimbatore-investors.html,local
+FUTURE,Local & India,sip for beginners in coimbatore,SIP for Beginners in Coimbatore,sip-for-beginners-in-coimbatore.html,local
+FUTURE,Local & India,mutual fund kyc help in coimbatore,Mutual Fund KYC Help in Coimbatore,mutual-fund-kyc-help-in-coimbatore.html,local
+FUTURE,Local & India,mutual fund portfolio review in coimbatore,Mutual Fund Portfolio Review in Coimbatore,mutual-fund-portfolio-review-in-coimbatore.html,local
+FUTURE,Local & India,goal based investing in coimbatore,Goal Based Investing in Coimbatore,goal-based-investing-in-coimbatore.html,local
+FUTURE,Local & India,retirement investment planning education in coimbatore,Retirement Investment Planning Education in Coimbatore,retirement-investment-planning-education-in-coimbatore.html,local
+FUTURE,Local & India,child education goal planning in coimbatore,Child Education Goal Planning in Coimbatore,child-education-goal-planning-in-coimbatore.html,local
+FUTURE,Local & India,long term sip education in coimbatore,Long Term SIP Education in Coimbatore,long-term-sip-education-in-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor near me in coimbatore,Mutual Fund Distributor Near Me in Coimbatore,mutual-fund-distributor-near-me-in-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in rs puram coimbatore,Mutual Fund Distributor in RS Puram Coimbatore,mutual-fund-distributor-in-rs-puram-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in saibaba colony coimbatore,Mutual Fund Distributor in Saibaba Colony Coimbatore,mutual-fund-distributor-in-saibaba-colony-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in peelamedu coimbatore,Mutual Fund Distributor in Peelamedu Coimbatore,mutual-fund-distributor-in-peelamedu-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in singanallur coimbatore,Mutual Fund Distributor in Singanallur Coimbatore,mutual-fund-distributor-in-singanallur-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in gandhipuram coimbatore,Mutual Fund Distributor in Gandhipuram Coimbatore,mutual-fund-distributor-in-gandhipuram-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in saravanampatti coimbatore,Mutual Fund Distributor in Saravanampatti Coimbatore,mutual-fund-distributor-in-saravanampatti-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in vadavalli coimbatore,Mutual Fund Distributor in Vadavalli Coimbatore,mutual-fund-distributor-in-vadavalli-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in ganapathy coimbatore,Mutual Fund Distributor in Ganapathy Coimbatore,mutual-fund-distributor-in-ganapathy-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in race course coimbatore,Mutual Fund Distributor in Race Course Coimbatore,mutual-fund-distributor-in-race-course-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in town hall coimbatore,Mutual Fund Distributor in Town Hall Coimbatore,mutual-fund-distributor-in-town-hall-coimbatore.html,local
+FUTURE,Local & India,mutual fund distributor in sulur,Mutual Fund Distributor in Sulur,mutual-fund-distributor-in-sulur.html,local
+FUTURE,Local & India,mutual fund distributor in pollachi,Mutual Fund Distributor in Pollachi,mutual-fund-distributor-in-pollachi.html,local
+FUTURE,Local & India,mutual fund distributor in tiruppur,Mutual Fund Distributor in Tiruppur,mutual-fund-distributor-in-tiruppur.html,local
+FUTURE,Local & India,mutual fund distributor in erode,Mutual Fund Distributor in Erode,mutual-fund-distributor-in-erode.html,local
+FUTURE,Local & India,mutual fund distributor in tamil nadu,Mutual Fund Distributor in Tamil Nadu,mutual-fund-distributor-in-tamil-nadu.html,informational
+FUTURE,Local & India,sip education in tamil nadu,SIP Education in Tamil Nadu,sip-education-in-tamil-nadu.html,informational
+FUTURE,Local & India,mutual fund education in tamil nadu,Mutual Fund Education in Tamil Nadu,mutual-fund-education-in-tamil-nadu.html,informational
+FUTURE,Local & India,how to start sip in tamil nadu,How to Start SIP in Tamil Nadu,how-to-start-sip-in-tamil-nadu.html,informational
+FUTURE,Local & India,amfi registered mutual fund distributor tamil nadu,AMFI Registered Mutual Fund Distributor Tamil Nadu,amfi-registered-mutual-fund-distributor-tamil-nadu.html,informational
+FUTURE,Local & India,mutual fund questions in tamil,Mutual Fund Questions in Tamil,mutual-fund-questions-in-tamil.html,informational
+FUTURE,Local & India,sip meaning explained for tamil nadu investors,SIP Meaning Explained for Tamil Nadu Investors,sip-meaning-explained-for-tamil-nadu-investors.html,informational
+FUTURE,Local & India,mutual fund investor education india,Mutual Fund Investor Education India,mutual-fund-investor-education-india.html,informational
+FUTURE,Local & India,sip for beginners in india,SIP for Beginners in India,sip-for-beginners-in-india.html,informational
+FUTURE,Local & India,how mutual fund distribution works in india,How Mutual Fund Distribution Works in India,how-mutual-fund-distribution-works-in-india.html,informational
+FUTURE,Local & India,how to verify mutual fund distributor in india,How to Verify Mutual Fund Distributor in India,how-to-verify-mutual-fund-distributor-in-india.html,informational
+FUTURE,Local & India,mutual fund learning guide for indian beginners,Mutual Fund Learning Guide for Indian Beginners,mutual-fund-learning-guide-for-indian-beginners.html,informational
+FUTURE,Glossary,what is cagr in mutual funds,What Is CAGR in Mutual Funds,what-is-cagr-in-mutual-funds.html,informational
+FUTURE,Glossary,what is xirr in mutual funds,What Is XIRR in Mutual Funds,what-is-xirr-in-mutual-funds.html,informational
+FUTURE,Glossary,what is absolute return,What Is Absolute Return,what-is-absolute-return.html,informational
+FUTURE,Glossary,what is annualized return,What Is Annualized Return,what-is-annualized-return.html,informational
+FUTURE,Glossary,how mutual fund returns are calculated,How Mutual Fund Returns Are Calculated,how-mutual-fund-returns-are-calculated.html,informational
+FUTURE,Glossary,what is rolling return,What Is Rolling Return,what-is-rolling-return.html,informational
+FUTURE,Glossary,what is point to point return,What Is Point to Point Return,what-is-point-to-point-return.html,informational
+FUTURE,Glossary,what is calendar year return,What Is Calendar Year Return,what-is-calendar-year-return.html,informational
+FUTURE,Glossary,what is total return index,What Is Total Return Index,what-is-total-return-index.html,informational
+FUTURE,Glossary,what is tri benchmark,What Is TRI Benchmark,what-is-tri-benchmark.html,informational
+FUTURE,Glossary,what is compounding,What Is Compounding,what-is-compounding.html,informational
+FUTURE,Glossary,what is opportunity cost in investing,What Is Opportunity Cost in Investing,what-is-opportunity-cost-in-investing.html,informational
+FUTURE,Glossary,what is liquidity in investing,What Is Liquidity in Investing,what-is-liquidity-in-investing.html,informational
+FUTURE,Glossary,what is corpus in investing,What Is Corpus in Investing,what-is-corpus-in-investing.html,informational
+FUTURE,Glossary,what is principal amount,What Is Principal Amount,what-is-principal-amount.html,informational
+FUTURE,Glossary,what is investment horizon,What Is Investment Horizon,what-is-investment-horizon.html,informational
+FUTURE,Glossary,what is market capitalization,What Is Market Capitalization,what-is-market-capitalization.html,informational
+FUTURE,Glossary,what is large cap company,What Is Large Cap Company,what-is-large-cap-company.html,informational
+FUTURE,Glossary,what is mid cap company,What Is Mid Cap Company,what-is-mid-cap-company.html,informational
+FUTURE,Glossary,what is small cap company,What Is Small Cap Company,what-is-small-cap-company.html,informational
+FUTURE,Glossary,what is equity,What Is Equity,what-is-equity.html,informational
+FUTURE,Glossary,what is debt instrument,What Is Debt Instrument,what-is-debt-instrument.html,informational
+FUTURE,Glossary,what is bond yield,What Is Bond Yield,what-is-bond-yield.html,informational
+FUTURE,Glossary,what is duration in debt funds,What Is Duration in Debt Funds,what-is-duration-in-debt-funds.html,informational
+FUTURE,Glossary,what is modified duration,What Is Modified Duration,what-is-modified-duration.html,informational
+FUTURE,Glossary,what is credit rating,What Is Credit Rating,what-is-credit-rating.html,informational
+FUTURE,Glossary,what is default risk,What Is Default Risk,what-is-default-risk.html,informational
+FUTURE,Glossary,what is yield to maturity,What Is Yield to Maturity,what-is-yield-to-maturity.html,informational
+FUTURE,Glossary,what is tracking index,What Is Tracking Index,what-is-tracking-index.html,informational
+FUTURE,Glossary,what is rebalancing frequency,What Is Rebalancing Frequency,what-is-rebalancing-frequency.html,informational
+FUTURE,Glossary,what is portfolio overlap,What Is Portfolio Overlap,what-is-portfolio-overlap.html,informational
+FUTURE,Glossary,what is sector allocation,What Is Sector Allocation,what-is-sector-allocation.html,informational
+FUTURE,Glossary,what is market cycle,What Is Market Cycle,what-is-market-cycle.html,informational
+FUTURE,Glossary,what is bull market,What Is Bull Market,what-is-bull-market.html,informational
+FUTURE,Glossary,what is bear market,What Is Bear Market,what-is-bear-market.html,informational
+FUTURE,Glossary,what is market correction,What Is Market Correction,what-is-market-correction.html,informational
+FUTURE,Glossary,what is market crash,What Is Market Crash,what-is-market-crash.html,informational
+FUTURE,Glossary,what is investor risk profile,What Is Investor Risk Profile,what-is-investor-risk-profile.html,informational
+FUTURE,Glossary,what is investment objective,What Is Investment Objective,what-is-investment-objective.html,informational
+FUTURE,Glossary,what is scheme objective,What Is Scheme Objective,what-is-scheme-objective.html,informational
+FUTURE,Glossary,what is lock in period,What Is Lock In Period,what-is-lock-in-period.html,informational
+FUTURE,Glossary,what is redemption value,What Is Redemption Value,what-is-redemption-value.html,informational
+FUTURE,Glossary,what is purchase price in mutual funds,What Is Purchase Price in Mutual Funds,what-is-purchase-price-in-mutual-funds.html,informational
+FUTURE,Glossary,what is switch in and switch out,What Is Switch In and Switch Out,what-is-switch-in-and-switch-out.html,informational
+FUTURE,Glossary,what is systematic withdrawal plan,What Is Systematic Withdrawal Plan,what-is-systematic-withdrawal-plan.html,informational
+FUTURE,Glossary,what is systematic transfer plan,What Is Systematic Transfer Plan,what-is-systematic-transfer-plan.html,informational
+FUTURE,Glossary,what is systematic investment plan,What Is Systematic Investment Plan,what-is-systematic-investment-plan.html,informational
+FUTURE,Glossary,what is lump sum investment,What Is Lump Sum Investment,what-is-lump-sum-investment.html,informational
+FUTURE,Glossary,what is nominee,What Is Nominee,what-is-nominee.html,informational
+FUTURE,Glossary,what is joint holding in mutual funds,What Is Joint Holding in Mutual Funds,what-is-joint-holding-in-mutual-funds.html,informational
+FUTURE,Glossary,what is minor folio in mutual funds,What Is Minor Folio in Mutual Funds,what-is-minor-folio-in-mutual-funds.html,informational

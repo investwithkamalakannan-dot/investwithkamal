@@ -1,0 +1,22 @@
+(()=>{"use strict";
+const C=window.IWK_CONFIG||{};
+const inArticles=location.pathname.replace(/\\/g,'/').includes('/articles/');
+const p=inArticles?'../':'';
+const mount=document.getElementById('siteFooter');
+if(!mount)return;
+const phone=C.phoneDisplay||'81110 79681', intl=C.phoneInternational||'+918111079681', wa=C.whatsapp||'918111079681';
+const email=C.email||'Investwithkamalakannan@gmail.com';
+const address=C.officeAddress||'Pappampatti Pirivu, Coimbatore, Tamil Nadu 641103, India';
+mount.innerHTML=`<footer class="site-footer"><div class="site-shell footer-grid">
+<div class="footer-main"><img class="footer-logo" src="${p}images/logo.png" alt="InvestWithKamal"><p>Mutual fund distribution support from Coimbatore, with clear information on SIPs, processes, risk and investor servicing.</p><div class="footer-badges"><span>${C.arn||'ARN-363054'}</span><span>${C.nism||'NISM Certified'}</span></div></div>
+<div><h2>Explore</h2><a href="${p}sip.html">SIP</a><a href="${p}investment-plans.html">Investment Plans</a><a href="${p}articles.html">Articles</a><a href="${p}my-services.html">My Services</a></div>
+<div><h2>Contact</h2><p class="footer-contact"><strong>${C.distributor||'KAMALA KANNAN J'}</strong><br>${C.designation||'AMFI-registered Mutual Fund Distributor'}<br>${C.arn||'ARN-363054'}<br>${address}</p><a href="tel:${intl}">${phone}</a><a href="mailto:${email}">${email}</a><a href="https://wa.me/${wa}" target="_blank" rel="noopener">WhatsApp</a></div>
+<div><h2>Legal</h2><a href="${p}disclaimer.html">Disclaimer</a><a href="${p}privacy-policy.html">Privacy Policy</a><a href="${p}terms-and-conditions.html">Terms &amp; Conditions</a></div>
+</div><div class="site-shell risk-note"><strong>Risk disclosure:</strong> Mutual fund investments are subject to market risks. Read all scheme-related documents carefully. Information on this website is general in nature and does not guarantee returns.</div><div class="site-shell copyright"><span>© 2026 InvestWithKamal. All rights reserved.</span><span>${C.distributor||'KAMALA KANNAN J'} · ${C.arn||'ARN-363054'}</span><span class="curated-credit">Curated by <a href="https://marcinmind.in/" target="_blank" rel="noopener">Marc in Mind Technologies</a></span></div></footer>
+<div class="contact-dock" role="navigation" aria-label="Quick contact">
+<button class="dock-enquire" type="button" data-bs-toggle="offcanvas" data-bs-target="#enquiryPanel" aria-controls="enquiryPanel"><span class="dock-symbol">✦</span><span>Enquire</span></button>
+<a class="dock-call" href="tel:${intl}"><span class="dock-symbol">☎</span><span>Call</span></a>
+<a class="dock-whatsapp" href="https://wa.me/${wa}?text=${encodeURIComponent('Hello Kamal, I have a mutual fund question.') }" target="_blank" rel="noopener"><span class="dock-symbol">◉</span><span>WhatsApp</span></a>
+</div>
+<div class="offcanvas offcanvas-bottom enquiry-panel" tabindex="-1" id="enquiryPanel" aria-labelledby="enquiryTitle"><div class="offcanvas-header site-shell"><div><span class="eyebrow">CONTACT KAMAL</span><h2 id="enquiryTitle">How can Kamal help?</h2></div><button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button></div><div class="offcanvas-body site-shell"><form id="whatsappEnquiryDock" class="row g-3" data-whatsapp-enquiry data-phone="${wa}"><div class="col-md-4"><label class="form-label" for="dockName">Name</label><input class="form-control" id="dockName" name="name" required autocomplete="name"></div><div class="col-md-4"><label class="form-label" for="dockPhone">Phone</label><input class="form-control" id="dockPhone" name="phone" inputmode="tel" required autocomplete="tel"></div><div class="col-md-4"><label class="form-label" for="dockTopic">Topic</label><select class="form-select" id="dockTopic" name="topic"><option>SIP</option><option>Mutual fund basics</option><option>Goal planning</option><option>KYC / transaction support</option><option>General question</option></select></div><div class="col-12"><label class="form-label" for="dockMessage">Message</label><textarea class="form-control" id="dockMessage" name="message" rows="3" placeholder="Tell Kamal what you would like to discuss"></textarea></div><div class="col-12 d-flex gap-2 flex-wrap"><button class="btn btn-lumia" type="submit">Continue on WhatsApp</button><a class="btn btn-outline-light" href="tel:${intl}">Call ${phone}</a></div></form></div></div>`;
+})();
