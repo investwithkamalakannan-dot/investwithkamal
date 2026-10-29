@@ -11,7 +11,7 @@ window.IWK_CONFIG = Object.freeze({
   state: "Tamil Nadu",
   email: "Investwithkamalakannan@gmail.com",
   officeAddress: "Pappampatti Pirivu, Coimbatore, Tamil Nadu 641103, India",
-  domain: "https://YOUR-DOMAIN-HERE",
+  domain: "https://www.investwithkamal.in",
   // Add a Google Analytics Measurement ID (example: G-XXXXXXXXXX) only after consent/configuration.
   googleAnalyticsId: ""
 });
