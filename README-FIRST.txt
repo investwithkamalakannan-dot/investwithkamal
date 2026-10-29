@@ -16,11 +16,12 @@ COMMON FILES
 - images/logo.png   : dark-background logo lockup
 - images/logo-mark.png / favicon.png / favicon.ico : icon-only brand mark
 
-BEFORE PRODUCTION
-1. Replace https://YOUR-DOMAIN-HERE in canonical URLs, Open Graph URLs and sitemaps.
-2. Add a Google Analytics Measurement ID only if analytics/consent configuration is approved.
-3. Review all legal/disclosure pages against the client’s current registrations and requirements.
-4. Validate structured data, canonical URLs, sitemap and robots.txt after the final domain is known.
+PRODUCTION STATUS
+1. Production domain configured: https://www.investwithkamal.in/
+2. Canonical URLs, Open Graph URLs, schema, robots.txt and XML sitemaps use the production domain.
+3. Google Analytics is intentionally blank until a GA4 Measurement ID is supplied and consent/configuration is approved.
+4. Review legal/disclosure pages whenever the client’s registrations, provider arrangements or regulatory requirements change.
+5. Revalidate structured data and sitemap after future structural changes.
 
 When adding a new page, copy an existing page of the same type and keep these shared scripts at the end of <body>:
 js/site-config.js, js/header.js, js/footer.js, js/main.js (use ../ prefix inside /articles/).
